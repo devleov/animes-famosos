@@ -1,0 +1,65 @@
+let animes = [
+    {
+        titulo: "Demon Slayer: Kimetsu no Yaiba",
+        descricao: "Um jovem caçador de demônios busca uma cura para sua irmã transformada em demônio. A história se passa no Japão Taisho e combina ação, drama e fantasia.",
+        link: "https://myanimelist.net/anime/38524/Kimetsu_no_Yaiba",
+        tags: "shounen, ação, fantasia, sobrenatural, família, amizade, demônios, kimetsu no yaiba, tanjiro kamado, nezuko kamado",
+        genero: "Ação, Fantasia, Shounen",
+    },
+    {
+        titulo: "My Hero Academia",
+        descricao: "Em um mundo onde a maioria das pessoas possuem superpoderes, um garoto sem poderes sonha em se tornar um herói. Uma história emocionante sobre amizade, superação e a busca por seus sonhos.",
+        link: "https://myanimelist.net/anime/30276/Boku_no_Hero_Academia",
+        tags: "shounen, ação, aventura, superpoderes, escola, amizade, heróis, vilões, my hero academia, izuku midoriya, katsuki bakugou, all might",
+        genero: "Ação, Aventura, Shounen",
+    },
+    {
+        titulo: "Naruto",
+        descricao: "Um ninja órfão busca reconhecimento e o sonho de se tornar Hokage, o líder da sua vila. Uma jornada épica repleta de batalhas, amizades e rivalidades.",
+        link: "https://myanimelist.net/anime/20/Naruto",
+        tags: "shounen, ação, aventura, ninjas, amizade, rivalidade, ninjas, naruto uzumaki, sasuke uchiha, kakashi hatake",
+        genero: "Ação, Aventura, Shounen",
+    },
+    {
+        titulo: "Jujutsu Kaisen",
+        descricao: "Um estudante do ensino médio se envolve em um mundo oculto de feiticeiros que combatem maldições. Uma história com elementos de horror, ação e comédia.",
+        link: "https://myanimelist.net/anime/40028/Jujutsu_Kaisen",
+        tags: "shounen, ação, horror, sobrenatural, jujutsu kaisen, itadori yuuji, gojo satoru, megumi fushiguro",
+        genero: "Ação, Horror, Shounen",
+    },
+    {
+        titulo: "One Piece",
+        descricao: "Um pirata sonha em encontrar o tesouro mais procurado do mundo e se tornar o Rei dos Piratas. Uma aventura épica repleta de ação, comédia e amizade.",
+        link: "https://myanimelist.net/anime/20/Naruto",
+        tags: "shounen, ação, aventura, piratas, amizade, one piece, luffy, zoro, nami",
+        genero: "Ação, Aventura, Shounen",
+    },
+    {
+        titulo: "Attack on Titan",
+        descricao: "A humanidade vive dentro de muros para se proteger de gigantes humanoides que devoram humanos. Uma história de luta pela sobrevivência e mistérios.",
+        link: "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+        tags: "ação, drama, mistério, shounen, attack on titan, eren yeager, mikasa ackerman, levi ackerman",
+        genero: "Ação, Drama, Mistério, Shounen",
+    },
+    {
+        titulo: "Fullmetal Alchemist: Brotherhood",
+        descricao: "Dois irmãos alquimistas buscam restaurar seus corpos após um experimento fracassado. Uma jornada épica de redenção e autodescoberta.",
+        link: "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+        tags: "aventura, ação, fantasia, shounen, fullmetal alchemist, edward elric, alphonse elric",
+        genero: "Aventura, Ação, Fantasia, Shounen",
+    },
+    {
+        titulo: "Bleach",
+        descricao: "Um estudante do ensino médio descobre que possui poderes espirituais e se torna um Shinigami, um protetor do mundo humano.",
+        link: "https://myanimelist.net/anime/205/Bleach",
+        tags: "shounen, ação, sobrenatural, bleach, ichigo kurosaki, rukia kuchiki",
+        genero: "Ação, Aventura, Shounen",
+    },
+    {
+        titulo: "Mob Psycho 100",
+        descricao: "Um garoto com poderes psíquicos tenta levar uma vida normal enquanto lida com os desafios de controlar seus poderes.",
+        link: "https://myanimelist.net/anime/31043/Mob_Psycho_100",
+        tags: "ação, comédia, sobrenatural, mob psycho 100, mob",
+        genero: "Ação, Comédia, Sobrenatural",
+    }
+];
