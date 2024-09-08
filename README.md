@@ -40,4 +40,7 @@ Se você quiser melhorar a aplicação, pode fazer um fork do repositório e env
 
 **Dica:** Para deixar o README ainda mais organizado, você pode utilizar subtítulos (##), listas ordenadas (1. 2. 3.), e código (```) para destacar partes importantes do texto.
 
+Veja agora:
+https://animes-famosos.vercel.app
+
 Bom proveito! :D 
